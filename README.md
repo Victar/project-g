@@ -1,1 +1,1 @@
-# project-g
+# project-g - sample golang project
